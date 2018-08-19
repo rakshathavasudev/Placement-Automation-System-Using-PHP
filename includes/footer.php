@@ -4,9 +4,7 @@
         <div class="col-md-4 footer-grid">
             <h4>PLACEMENT AUTOMATION</h4>
             <ul class="bottom">
-                <li>Harshal Sonawane</li>
-                <li>kapil Deore</li>
-                <li>Harshal Patil</li>
+                <li>Trilokynath Wagh</li>
             </ul>
         </div>
         <div class="col-md-4 footer-grid">
@@ -14,14 +12,14 @@
             <ul class="bottom">
                 <li><i class="glyphicon glyphicon-home"></i>Available 24/7 </li>
                 <li><i class="glyphicon glyphicon-envelope"></i><a href="mailto:harshalsonawane254@gmail.com">placementautomation@gmail.com</a></li>
-                <li><i class="glyphicon glyphicon-envelope"></i>8308798180</li>
+                <li><i class="glyphicon glyphicon-envelope"></i>8390861559</li>
             </ul>
         </div>
         <div class="col-md-4 footer-grid">
             <h4>Address Location</h4>
             <ul class="bottom">
                 <li><i class="glyphicon glyphicon-map-marker"></i>Shirpur</li>
-                <li><i class="glyphicon glyphicon-earphone"></i>Mobile: (+91) 8308798180 </li>
+                <li><i class="glyphicon glyphicon-earphone"></i>Mobile: (+91) 8390861559 </li>
             </ul>
         </div>
         <div class="clearfix"> </div>
